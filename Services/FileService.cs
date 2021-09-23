@@ -5,7 +5,6 @@ using System.Text;
 using System.IO;
 using Logger.Services.Abstractions;
 
-
 namespace Logger.Services
 {
     public class FileService : IFileService
